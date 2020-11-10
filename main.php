@@ -1,6 +1,7 @@
 <html>
  <head>
-  <title>PHP Analysis</title>
+=======
+  <title>PHP Demo</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
